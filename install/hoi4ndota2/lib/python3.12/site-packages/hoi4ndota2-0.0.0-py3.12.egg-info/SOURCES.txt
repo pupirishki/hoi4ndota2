@@ -1,0 +1,15 @@
+README.md
+package.xml
+setup.cfg
+setup.py
+../build/hoi4ndota2/hoi4ndota2.egg-info/PKG-INFO
+../build/hoi4ndota2/hoi4ndota2.egg-info/SOURCES.txt
+../build/hoi4ndota2/hoi4ndota2.egg-info/dependency_links.txt
+../build/hoi4ndota2/hoi4ndota2.egg-info/requires.txt
+../build/hoi4ndota2/hoi4ndota2.egg-info/top_level.txt
+../build/hoi4ndota2/hoi4ndota2.egg-info/zip-safe
+hoi4ndota2/__init__.py
+resource/hoi4ndota2
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
